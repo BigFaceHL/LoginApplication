@@ -62,7 +62,7 @@ public class LoginActivity extends AppCompatActivity {
                 login(etUserName.getText().toString().trim(), etPassword.getText().toString().trim());
                 Result result=new Result("200",new User("001","helan"));
                 String json=new GsonBuilder().create().toJson(result,Result.class);
-                Log.e("123",json);
+                Log.e("1239",json);
 
 
             }
