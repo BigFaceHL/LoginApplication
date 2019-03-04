@@ -5,4 +5,7 @@ package com.example.administrator.loginapplication.test;
  */
 
 public class test {
+    public void main(String args[]){
+
+    }
 }
